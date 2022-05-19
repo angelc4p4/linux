@@ -1,7 +1,2 @@
-Esto es un aprueba de git
+esto es la primera modificacion.
 
-
-esto es una modificacion
-
-
-2 otra modificacion
